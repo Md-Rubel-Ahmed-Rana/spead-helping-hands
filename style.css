@@ -1,0 +1,40 @@
+
+body{
+    margin: 0;
+}
+
+.banner{
+    background-image: url("./images/donation3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.banner-wrapper{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+
+.banner-title{
+    padding-top: 100px;
+    font-size: 70px;
+    margin-bottom: 0;
+}
+
+.banner-description{
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+}
+
+.donate-btn{
+    width: 120px;
+    padding: 15px;
+    background-color:lawngreen;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+}
