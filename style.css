@@ -8,7 +8,7 @@ p{
     font-size: 20px;
 }
 
-.banner{
+#banner{
     background-image: url("./images/donation3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -46,7 +46,7 @@ p{
     color: red;
 }
 
-.donate-area{
+#donate-area{
     width: 60%;
     margin: auto;
 }
