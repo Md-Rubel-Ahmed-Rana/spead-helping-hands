@@ -162,7 +162,40 @@ p{
     text-align: left
 }
 
+#volunteer-section{
+    margin: 50px auto;
 
+}
+#volunteer-header{
+    text-align: center;
+    width: 45%;
+    margin: auto;
+}
+#volunteer-header h1{
+    margin-bottom: 0;
+}
+#volunteer-form{
+    background-color: #9acd3230;
+    width: 40%;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 40px #9acd3230;
+}
+#volunteer-form input{
+    padding: 5px;
+}
+#volunteer-btn {
+    background-color: #1465ed;
+    text-align: center;
+    margin-left: 15px;
+    padding: 10px;
+    width: 100px;
+    font-size: 18px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
 
 #subscribe-area{
     width: 50%;
